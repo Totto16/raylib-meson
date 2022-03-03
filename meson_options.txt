@@ -1,9 +1,3 @@
-option('raylib_build_examples',
-	type: 'boolean',
-	description: 'Build the raylib example programs',
-	value: true
-)
-
 option('raylib_platform',
 	type: 'combo',
 	description: 'Which platform to build for',
