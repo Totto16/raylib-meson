@@ -1,6 +1,5 @@
 [wrap-git]
 directory = raylib
-url = https://github.com/ericonr/raylib-meson.git
-# or a specific version, if desired
+url = https://github.com/Totto16/raylib-meson.git
 revision = master
 clone-recursive = true
