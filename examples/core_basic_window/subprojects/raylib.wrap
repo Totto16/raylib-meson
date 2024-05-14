@@ -1,5 +1,5 @@
 [wrap-git]
 directory = raylib
 url = https://github.com/Totto16/raylib-meson.git
-revision = master
+revision = 4.5.0
 clone-recursive = true
